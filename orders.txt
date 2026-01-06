@@ -1,0 +1,12 @@
+Customer Name: Priyum Datta
+Phone: 01880733435
+Payment: CASH
+
+Ordered Items:
+- Coffee (Qty: 4)
+- Masala Tea (Qty: 4)
+- Ginger Tea (Qty: 5)
+- Lemon Tea (Qty: 3)
+
+Total Price: $71
+-----
